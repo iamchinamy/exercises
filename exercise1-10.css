@@ -80,11 +80,12 @@ footer {
 }
 
 @media screen and (max-width: 768px) {
-	.header {
+	body {
 		width: 100%;
 	}
 	main {
 		width: 90%;
+		margin: 50 auto;
 	}
 	.box {
 		width: 100%;
